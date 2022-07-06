@@ -1,2 +1,1 @@
-# challenge03_password_gen
- 
+# a password generator that asks for a preferred password length, and which types of characters you would like to include in your password.
